@@ -1,0 +1,5 @@
+git init					// create local repo
+git remote add origin ""	// link local repo with central repo
+git pull origin main		// pull main branch
+git status					// files ready to be commited to local repo
+git add						// add to index so that file can be commited to local repo
